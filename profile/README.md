@@ -28,17 +28,6 @@ This GitHub organization hosts **open-source code and reproducible building bloc
 
 ## Our GitHub Organizations
 
-- **[Statistical Office Canton of Zurich](https://github.com/statistikZH)** (*this organization*)
+- **[Statistical Office Canton of Zurich](https://github.com/statistikZH)** (_this organization_)
 - **[Specialist Unit for Open Government Data Canton of Zurich](https://github.com/openZH/)**
 - **[AI + Machine Learning Pilot Projects](https://github.com/machinelearningZH)**
-
-## Contact
-
-- Email: **datashop@statistik.zh.ch**
-- Website: https://www.zh.ch/statistisches-amt
-
-## Contributing & licensing
-
-Please use **issues and pull requests** in the relevant repositories. Many projects include their own `CONTRIBUTING` and `CODE_OF_CONDUCT` files.
-
-Licenses vary by repository—see each repo’s license file for details.
