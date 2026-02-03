@@ -30,4 +30,4 @@ This GitHub organization hosts **open-source code and reproducible building bloc
 
 - **[Statistical Office Canton of Zurich](https://github.com/statistikZH)** (_this organization_)
 - **[Specialist Unit for Open Government Data Canton of Zurich](https://github.com/openZH/)**
-- **[AI + Machine Learning Pilot Projects](https://github.com/machinelearningZH)**
+- **[AI + Machine Learning Canton of Zurich](https://github.com/machinelearningZH)**
