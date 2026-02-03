@@ -21,10 +21,10 @@ This GitHub organization hosts **open-source code and reproducible building bloc
 ## Selected repositories
 
 - **[`leu`](https://github.com/statistikZH/leu)** — UI component library based on the Canton of Zurich design system.
-- **[`gebietsstammdaten_zh`](https://github.com/statistikZH/gebietsstammdaten_zh)** — Master reference data for consistent territorial/area information, with OGD publication and API work.
+- **[`gebietsstammdaten_zh`](https://github.com/statistikZH/gebietsstammdaten_zh)** — Master reference data for consistent territorial/area information.
 - **[`eCHparser`](https://github.com/statistikZH/eCHparser)** — Parses political-rights XML (e.g., eCH-0252) into analysis-friendly data frames.
-- **[`rstats_ktzh`](https://github.com/statistikZH/rstats_ktzh)** — R exchange/community platform for users in the cantonal administration.
-- **[`decarbmonitoring`](https://github.com/statistikZH/decarb_monitoring)** — Data pipeline and reporting for monitoring decarbonization efforts in the Canton of Zurich.
+- **[`rstats_ktzh`](https://github.com/statistikZH/rstats_ktzh)** — R exchange/community platform.
+- **[`decarbmonitoring`](https://github.com/statistikZH/decarb_monitoring)** — Data pipeline and reporting for monitoring cantonal decarbonization efforts.
 
 ## Our GitHub Organizations
 
