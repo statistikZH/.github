@@ -1,10 +1,10 @@
 # Cantonal Competence Center for Public Statistics
 
-This GitHub organization hosts **open-source code and reproducible building blocks** published by the Statistical Office of the Canton of Zurich. We provide **independent data and analyses** for the public, businesses, politics, and the media, and we also operate the **cantonal elections and voting center**. In addition, we conduct surveys and evaluations, coordinate **Open Government Data (OGD)** and data governance, and build applications that make cantonal datasets accessible.
+This GitHub organization hosts **open-source code and reproducible building blocks** published by the Office for Statistics and Data of the Canton of Zurich. We provide **independent data and analyses** for the public, businesses, politics, and the media, and we also operate the **cantonal elections and voting center**. In addition, we conduct surveys and evaluations, coordinate **Open Government Data (OGD)** and data governance, and build applications that make cantonal datasets accessible.
 
 ## Quick links
 
-- [Office page](https://www.zh.ch/de/direktion-der-justiz-und-des-innern/statistisches-amt.html)
+- [Office page](https://www.zh.ch/amt-fuer-statistik-und-daten)
 - [Statistics & data](https://www.zh.ch/de/politik-staat/statistik-daten.html)
 - [Open Government Data](https://www.zh.ch/de/politik-staat/opendata.html)
 - [Municipal portraits](https://www.zh.ch/de/politik-staat/gemeinden/gemeindeportraet.html)
@@ -28,6 +28,6 @@ This GitHub organization hosts **open-source code and reproducible building bloc
 
 ## Our GitHub Organizations
 
-- **[Statistical Office Canton of Zurich](https://github.com/statistikZH)** (_this organization_)
+- **[Office for Statistics and Data of the Canton of Zurich](https://github.com/statistikZH)** (_this organization_)
 - **[Specialist Unit for Open Government Data Canton of Zurich](https://github.com/openZH/)**
 - **[AI + Machine Learning Canton of Zurich](https://github.com/machinelearningZH)**
